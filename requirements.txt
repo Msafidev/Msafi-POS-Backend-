@@ -1,0 +1,14 @@
+Django==6.0.7
+djangorestframework==3.17.1
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.4.0
+django-filter==24.3
+psycopg2-binary==2.9.9
+python-decouple==3.8
+Pillow==10.4.0
+requests==2.32.3
+gunicorn==22.0.0
+whitenoise==6.7.0
+django-storages==1.14.4
+boto3==1.35.36
+redis==5.0.8
